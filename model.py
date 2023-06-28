@@ -1,10 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Tue May 19 12:58:39 2023
-
-@author: Mac PC
-"""
-
 import numpy as np # linear algebra 
 import pandas as pd # analyze data 
 import matplotlib.pyplot as plt 
